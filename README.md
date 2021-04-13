@@ -1,7 +1,14 @@
 # L2 Regularization with Keras to Decrease Overfitting in Deep Neural Networks
+
 ## To view the video
-* [Click here](https://youtu.be/b4HXoFW04-g)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=b4HXoFW04-g" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/b4HXoFW04-g?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![L2 Regularization with Keras to Decrease Overfitting in Deep Neural Networks](http://img.youtube.com/vi/b4HXoFW04-g/0.jpg)](http://www.youtube.com/watch?v=b4HXoFW04-g)
 
